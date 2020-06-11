@@ -31,8 +31,7 @@
 
 ### 2) Application 소스 코드
 
-**Lab에 필요한 소스코드를 다운로드** <a href="./weblogic-to-oci.zip" target="_blank">다운로드</a></br>
-또는 다음의 주소에서 다운로드 <a href="https://github.com/oracle/learning-library/raw/master/developer-library/weblogic-to-oci/workshop/weblogic-to-oci.zip" target="_blank">https://github.com/oracle/learning-library/raw/master/developer-library/weblogic-to-oci/workshop/weblogic-to-oci.zip</a>
+**Lab에 필요한 소스코드를 다운로드** <a href="./weblogic-to-oci.zip" target="_blank">다운로드</a>
 
 ### 3) private docker images 받기
 
